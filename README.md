@@ -1,6 +1,6 @@
 # Hyper Imaging Works Assignment
 
-[DEMO](https://hyper-assignment.vercel.app/)
+[DEMO](https://hyper-image-work-assignment.vercel.app/)
 
 ##### Subtask #1: Use Supabase and create instance of Postgres SQL. create these tables:
 https://dbdiagram.io/d/6308a511f1a9b01b0fec09a7
